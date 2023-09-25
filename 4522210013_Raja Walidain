@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" type="image/x-icon" href="icon ssstiktok.jpg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSSTIK.io</title>
+    <link rel="stylesheet" href="Style.css">
+    <style>
+        body {
+            font-family: 'Times New Roman', Times, serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            padding: 10px;
+            text-align: center;
+            background-color: beige;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+
+        nav {
+            text-align: center;
+            background-color: beige;
+        }
+
+        nav a {
+            text-decoration: none;
+            margin: 10px;
+        }
+
+        .title {
+            font-size: 100 px;
+            text-align: justify;
+        }
+
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .search {
+            text-align: center;
+        }
+
+        .social-links {
+            margin-top: 20px;
+        }
+
+        .fitur-ssstiktok {
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .download {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .penjelasan {
+            
+            text-align: justify;
+        }
+
+        .tutorial-download {
+            margin-top: 20px;
+            text-align: center;
+        } 
+
+        .pertanyaan {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            font-size: 24px;
+            font-family: sans-serif;
+            font-size: 16px;
+            box-sizing: border-box;
+            text-align: center;
+            cursor: pointer;
+            width: 1000px;
+        }
+
+        .pertanyaan:active {
+            filter: brightness(100%);
+            display: block;
+            padding: 8px 16px;
+            text-decoration: none;
+        }
+
+        footer {
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>DOWNLOAD VIDEO TIKTOK TANPA WATERMARK</h1>
+    </header>
+    <nav>
+        <a href="#">Beranda</a>
+        <a href="#">Tentang Kami</a>
+        <a href="#">Kontak</a>
+    </nav>
+    <div class="content">
+        <h2>Selamat datang di SSSTIK.io</h2>
+        <p>Tempel tautan video di sini: </p>
+        <div class="search">
+            <form>
+                <input type="text" placeholder="Cari...">
+                <button type="submit">Download</button>
+            </form>
+        </div>
+        <div class="social-links">
+            <a href="#">Facebook</a>
+            <a href="#">Twitter</a>
+            <a href="#">Instagram</a>
+        </div>
+        <div class="fitur-ssstiktok">
+            <img src="fitur.png" height="300px" alt="fitur">
+            <p>
+                Download video TikTok tanpa watermark gratis
+            </p>
+        </div>
+    </div>
+    <div class="penjelasan">
+        <p>
+            SSSTIK.io adalah salah satu layanan unduh video TikTok online terpopuler yang dapat membantu kamu menyimpan 
+            TikTok tanpa watermark ke dalam format MP4 beresolusi HD dengan kualitas terbaik.
+        </p>
+        <p>
+            Ini sangat sederhana, Anda dapat menyimpan video Anda dalam tiga langkah mudah :
+        </p>
+    </div>
+    <div class="tutorial-download">
+        <p>Tutorial Download Video</p>
+        <img src="tutorial.jpg" height="300px" alt="tutor">
+        <br>
+        <br>
+        <p>Tutorial Download Video</p>  
+    </div>
+    <div class="penjelasan">
+        <p>
+            SSS TikTok download adalah salah satu alat paling populer untuk unduh mp4 TikTok tanpa watermark online gratis. 
+            Tidak perlu menggunakan aplikasi tambahan untuk menggunakan layanan kami, yang kamu butuhkan hanya browser dan tautan untuk ditempelkan pada halaman utama.
+        </p>
+    </div>
+    <div class="tutorial-download">
+        <img src="pengunduh.png" height="300 px" alt="notes">
+    </div>
+    <div class="penjelasan">
+        <p>
+            Berikut adalah beberapa cara untuk unduh video TikTok
+        </p>
+    </div>
+    <div class="title">
+        <h1>
+             Unduh video TikTok di ponsel Android
+        </h1>
+    </div>
+    <div class="penjelasan">
+        <p>
+            Jika kamu ingin unduh video dan foto TikTok pada ponsel Android, kamu harus meluncurkan aplikasinya dan menemukan video yang ingin kamu unduh. 
+            Saat kamu berada di halaman penampil, kamu akan melihat tombol "Bagikan" pada sisi kanan layar.
+            Klik dan ketuk "Download video TikTok" Setelah itu, buka situs web sss TikTok downloader dan tempelkan tautan.
+            Jika metode ini tidak sesuai untuk kamu, perhatikan instruksi di bawah ini.
+        </p>
+        <img src="ilustrasi_1.png" height="300 px" alt="Apple">
+        <h1>
+            Cara download video TikTok tanpa watermark di PC?
+        </h1>
+        <p>
+            Metode ini bersifat universal dan nyaman karena file akan disimpan tanpa tanda air kualitas terbaik.
+            Pengguna PC tidak diharuskan untuk memasang perangkat lunak tambahan, dan ini adalah kelebihan lain dari metode ini. 
+            Untuk download TikTok tanpa watermark, kamu harus menyalin tautan, seperti yang ditunjukkan pada Metode 1. 
+            Selanjutnya, kunjungi gratis TikTok downloader dan tempelkan tautan pada halaman utama. Setelah itu, ketuk tombol "Save TikTok".
+        </p>
+        <img src="ilustrasi_2.png" height="300 px" alt="Laptop">
+        <h1>
+            Cara Download video TikTok di iPhone?
+        </h1>
+        <p>
+            Jika kamu punya iPhone atau iPad, kamu juga tetap dapat download video TikTok no watermark, 
+            tetapi kamu harus memasang aplikasi "Documents by Readdle" dari AppStore.
+            Salin tautan video TikTok dan luncurkan Documents by Readle. Di sudut kanan bawah, kamu akan menemukan simbol browser web. 
+            Tekan. Ketika browser terbuka, kunjungi www.ssstik.io dan tempelkan tautan. File akan tersimpan di perangkat kamu.
+        </p>
+        <img src="Ilustrasi_3.png" alt="Iphone">
+    </div>
+    <div class="pertanyaan">
+        <button>
+            <ul>
+                <li>Di mana kamu download video TikTok tanpa watermark?</li>
+            </ul>
+        </button>
+        <button>
+            <ul>
+                <li>Apakah aplikasi TikTok video download gratis?</li>
+            </ul>
+        </button>
+        <button>
+            <ul>
+                <li>Apakah saya harus membayar untuk download video TikTok?</li>
+            </ul>
+        </button>
+        <button>
+            <ul>
+                <li>Apakah saya perlu menginstal ekstensi untuk save from TikTok?</li>
+            </ul>
+        </button>
+        <button>
+            <ul>
+                <li>Apakah saya perlu menginstal ekstensi untuk Tik Tok downloader?</li>
+            </ul>
+        </button>
+    </div>
+    
+    <footer>
+        Contact
+        Kebijakan Privasi
+        APK
+        Stories
+        FAQ
+        <br>
+        <br>
+        We are not affiliated with TikTok, Douyin or Bytedance.
+        <br> 
+        <br>
+        &copy; 2023 SSSTIK.io
+    </footer>
+</body>
+</html>
